@@ -2,6 +2,10 @@
 
 Allows you to get an active Discord developer badge.
 
+# FIRST ENABLE:
+- In order for the bot to run, you need to create a file called config.py, which will contain the variable API_TOKEN.
+**(EXAMPLE: API_TOKEN = "BOT TOKEN")**
+
 # COMMANDS:
 - /help 
 
